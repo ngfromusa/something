@@ -5,11 +5,12 @@
 
 body{
   background-color: #ecf0f1;
+  font: 16px/1.2 "nimbus-sans", "Arial", "Helvetica", sans-serif;
 }
 
 #title{
   font-family: monospace;
-  font-size: 25px;
+  font-size: 50px;
   text-align: center;
   margin-top: 10px;
 }
@@ -167,19 +168,49 @@ body{
   top: 5px;
 }
 .input{
-  top: 30%;
-  left: 35%;
+  top: 15%;
+  left: 30%;
   position: absolute;
+  background: white;
+  width: 40%;
+  height: 40%;
+  border-radius: 50%;
+}
+.input-wrapper{
+  text-align: center;
+  margin-top: 13%;
+}
+#greeting{
+  font-size: 22px;
+
+}
+#name{
+  padding: 10px;
+  border: solid 1px #fff;
+  box-shadow: inset 1px 1px 2px 0 #707070;
+  transition: box-shadow 0.3s;
+}
+.boro{
+  width: 150;
+}
+.boro li{
+  background:rgb(205, 210, 211);
+  cursor: pointer;
+  padding:8; 
+}
+.boro li:hover { 
+  background: rgb(183, 190, 192);
 }
 .address{
-  top: 50%;
-  left: 35%;
+  top: 60%;
+  left: 40%;
   position: absolute;
 }
+
 .address li {
   background:rgb(205, 210, 211);
   cursor: pointer;
-  padding:3;
+  padding:8;
 }
 .address li:hover { 
   background: rgb(183, 190, 192);
@@ -189,10 +220,25 @@ ul{
 }
 
 .result{
-  top: 30%;
-  left: 50%;
+  top: 15%;
+  left: 55%;
   position: absolute;
+  padding: 10px;
+
+  width: 35%;
+  height: 70%;
 }
 a{
   text-decoration: none;
+}
+#submit{
+  text-align: center;
+  background: #ACDFA1;
+  cursor: pointer;
+  font-size: 12px;  
+  text-transform: uppercase;
+  color: white;
+  border: 1px solid #ACDFA1;
+  border-radius: 5px;
+  padding: 11px 34px;
 }

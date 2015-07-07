@@ -1,65 +1,60 @@
 $(document).ready(function(){
-  findName();
+  ajaxCall();
 });
 
-function findName() {
-  $("#submit").click(function(){ 
-    var name = $('#name').val().toLowerCase();
+function ajaxCall() {
+  $(".address").hide();
+    var name = $('#name').val().toLowerCase().replace(/ /g, '-');
   $.ajax({
     type:'GET',
     url: 'https://data.cityofnewyork.us/resource/xx67-kt59.json?dba='+name,
     contentType: "application/json; charset=utf-8",
     jsonp: 'jsonp_callback'
-    }).done(function(results) {
-
+  }).done(function(results) {
       findAddress(results);
-    });
   });
 }
 function findAddress(results){
-  var boro = $('#boro').val().toUpperCase();
-  var streets=[];
   var places=[];
   results.forEach(function(place){
-    if (place.boro===boro){
-      if (!_.contains(streets, place.street)){
-        addHTML(place.street)
-        places.push(place); 
-      }
-      streets.push(place.street); 
-    }
+    clickBoro(place, places);
   });
-  // var uniqStreets=_.uniq(streets);
-  // _.each((uniqStreets),function(street){$('.address ul').append('<li id='+street.replace(/ /g, '-')+'><a href="#">'+street+'</a></li>');});
   findGrade(places);  
 };
 
-function addHTML(street){
-  $('.address ul').append('<li id='+street.replace(/ /g, '-')+'><a href="#">'+street+'</a></li>')
+
+function clickBoro(place, places){
+  $(".boro ul").on("click", "li", function(borough){ 
+    var boro = $(this).text();
+    if (place.boro===boro){
+      if (!_.where(places, {'street':place.street}).length) {
+        addHTML(place)
+        places.push(place); 
+      }
+    }
+  });
+};
+
+function addHTML(place){
+  $(".address").show();
+  // $('.address ul').append('<li><a href="#">'+place.street+'</a></li>');
+  $('.address ul').append(
+    '<li>'+place.street+'</li>')
 }
 
 function findGrade(places){
   $(".address ul").on("click", "li", function(address){ 
-    var streetClicked=this.id;
-    // _.each((places),function(place){place.street});
-    places.forEach(function(place){
-      if (streetClicked===place.street.replace(/ /g, '-')){
-        $('.result ul').append('<li>'+place.grade+'</li>');
-        $('.result ul').append('<li>'+place.score+'</li>');
-        $('.result ul').append('<li>'+place.violation_description+'</li>');
-        $('.result ul').append('<li>'+place.inspection_date+'</li>');
+    var streetClicked=this.textContent;
+    _.each((places),function(place){
+    // places.forEach(function(place){
+      if (streetClicked===place.street){
+        $('.result ul').html(
+          '<li>'+place.grade+'</li>'+
+          '<li>'+place.score+'</li>'+
+          '<li>'+place.violation_description+'</li>'+
+          '<li>'+place.inspection_date+'</li>'
+        )
       }
     });
   });
 };
-  // $("#recursion").one('click', function() {
-  //  $(".numbers").append("HI");
-  // });
-
-  // $("#hash").one('click', function() {
-  //  $("#bunny").animate({left: "+=500"}, 2000);
-  //  $(".images text").first().before("<strong>{</strong>");
-  //  $(".images text").last().append("<strong>}</strong>");
-  // });
-
-

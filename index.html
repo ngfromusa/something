@@ -19,14 +19,26 @@
 			<button type="submit" value="Submit" id="submit" />
 		</div> -->
 		<div class="input">
-			Name of food place: <br>
-			<input type="text-area" id="name" value="Bareburger">
-			<br> Borough: <br>
-			<input type="text-area" id="boro" value="manhattan">
-			<br><input type="submit" value="Submit" id="submit" />
+			<div class="input-wrapper">
+				<div id='greeting'>Dare to know how dirty your eating place is?</div><br><br>
+				Name of food place  :
+				<input type="text-area" id="name" value="Bareburger">
+				<br><div class='boro'>Borough  : 
+				<ul style="list-style-type:none">
+					<li>MANHATTAN</li>
+					<li>BROOKLYN</li>
+					<li>BRONX</li>
+					<li>QUEENS</li>
+				</ul>
+				</div>
+				<!-- <br><br><input type="submit" value="Submit" id="submit" /> -->
+			</div>
 		</div>
+
 		<div class="address">
-			<ul style="list-style-type:none"></ul>
+			<ul style="list-style-type:none">
+				<p>Pick an address: </p>
+			</ul>
 		</div>
 		<div class="result">
 			<ul style="list-style-type:none">
