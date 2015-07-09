@@ -25,6 +25,8 @@ function findAddress(results){
 
 function clickBoro(place, places){
   $(".boro ul").on("click", "li", function(borough){ 
+    $(".boro li").css('background', 'rgb(205, 210, 211)');
+    $(this).css('background', 'rgb(183, 190, 192)');
     var boro = $(this).text();
     if (place.boro===boro){
       if (!_.where(places, {'street':place.street}).length) {
@@ -44,6 +46,8 @@ function addHTML(place){
 
 function findGrade(places){
   $(".address ul").on("click", "li", function(address){ 
+    $(".address li").css('background', 'rgb(205, 210, 211)');
+    $(this).css('background', 'rgb(183, 190, 192)');
     var streetClicked=this.textContent;
     _.each((places),function(place){
     // places.forEach(function(place){

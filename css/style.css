@@ -1,11 +1,9 @@
-
-#wrapper{
-  margin-left: 100px;
-}
-
+@import url(http://fonts.googleapis.com/css?family=Lato:100);
 body{
-  background-color: #ecf0f1;
-  font: 16px/1.2 "nimbus-sans", "Arial", "Helvetica", sans-serif;
+  background: linear-gradient(grey, aliceblue);
+  background-color: transparent;
+  background-repeat: no-repeat;
+  font-family: 'lato', sans-serif;
 }
 
 #title{
@@ -167,31 +165,38 @@ body{
   left: -35px;
   top: 5px;
 }
+.everything{
+  position: absolute;
+  top: 0;
+  left: 10%;
+  background: white;
+  width: 80%;
+  height: 100%;
+}
 .input{
   top: 15%;
   left: 30%;
-  position: absolute;
-  background: white;
-  width: 40%;
-  height: 40%;
-  border-radius: 50%;
-}
+} 
 .input-wrapper{
   text-align: center;
-  margin-top: 13%;
+  margin-top: 4%;
+}
+#enterName{
+  text-align: left;
+  padding-left: 6%;
 }
 #greeting{
-  font-size: 22px;
-
+  font-size: 300%;
 }
 #name{
   padding: 10px;
   border: solid 1px #fff;
-  box-shadow: inset 1px 1px 2px 0 #707070;
+  box-shadow: inset 1px 1px 5px 0 #707070;
   transition: box-shadow 0.3s;
 }
 .boro{
   width: 150;
+  padding-left: 6%;
 }
 .boro li{
   background:rgb(205, 210, 211);
@@ -224,7 +229,7 @@ ul{
   left: 55%;
   position: absolute;
   padding: 10px;
-
+  font-family: BebasNeue,Helvetica,sans-serif;
   width: 35%;
   height: 70%;
 }
