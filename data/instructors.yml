@@ -1,0 +1,24 @@
+---
+web:
+- name: Avi Flombaum
+  title: Dean
+  about_text: Avi is a programmer, teacher, and Co-founder of The Flatiron School.
+    Before he started teaching, he worked for an NYC Startup, became the CTO of a
+    hedge fund, and started his own company, Designer Pages. He taught the advanced
+    section of GirlDevelopIt's Ruby series and the most popular Ruby on Rails course
+    on Skillshare. He also organizes the world's largest Rails Meetup Group, NYC on
+    Rails.
+  about_quote: We can be part of a wave of technology that is impacting everything,
+    just by learning how to program—why wouldn't we?
+  image: images/staff/avi-flombaum-round.png
+  image2x: images/staff/avi-flombaum-round@2x.png
+  image_description: Beloved Dean
+  github: https://github.com/aviflombaum
+  twitter: http://twitter.com/aviflombaum
+  facebook: http://www.facebook.com/aviflombaum
+  linkedin: http://www.linkedin.com/in/aviflombaum
+ios: []
+android: []
+front_end: []
+data_science: []
+diy_electronics: []
