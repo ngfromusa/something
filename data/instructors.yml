@@ -1,0 +1,229 @@
+---
+web:
+- name: Avi Flombaum
+  title: Dean
+  about_text: Avi is a programmer, teacher, and Co-founder of The Flatiron School.
+    Before he started teaching, he worked for an NYC Startup, became the CTO of a
+    hedge fund, and started his own company, Designer Pages. He taught the advanced
+    section of GirlDevelopIt's Ruby series and the most popular Ruby on Rails course
+    on Skillshare. He also organizes the world's largest Rails Meetup Group, NYC on
+    Rails.
+  about_quote: We can be part of a wave of technology that is impacting everything,
+    just by learning how to program—why wouldn't we?
+  image: images/staff/avi-flombaum-round.png
+  github: https://github.com/aviflombaum
+  twitter: http://twitter.com/aviflombaum
+  facebook: http://www.facebook.com/aviflombaum
+  linkedin: http://www.linkedin.com/in/aviflombaum
+- name: Uzo Ukeagu
+  title: Web Instructor
+  about_text: Uzo's name is pronounced like the Greek drink ούζο. She is neither Greek
+    nor named after the drink.  Before joining Flatiron School, she worked in Nigeria
+    helping both the country's largest bank and mobile operator deploy and implement
+    their mobile-payment service platform. When she isn't helping students fall in
+    love with programming, she is either spending time in the darkroom developing
+    photographs, reading, or dancing.
+  about_quote: Using programming to solve problems is the most exciting part about
+    learning to code.
+  image: images/staff/img60.jpg
+  github: https://www.github.com/msuzoagu
+  twitter: https://www.twitter.com/msuzoagu
+  facebook: 'false'
+  linkedin: 'false'
+- name: Ben Gross
+  title: Web Instructor
+  about_text: Ben is a web developer and instructor at the Flatiron School. He spent
+    several years working with troubled youth at a wilderness therapy center. He then
+    worked at a hospital where he first began his programming journey. When he isn't
+    coding Ben likes to swim, surf, write, or learn new things!
+  about_quote: There is always something new to learn and always someone new to learn
+    from!
+  image: images/staff/ben-gross-round.png
+  github: 'https://github.com/BenjaGross    '
+  twitter: https://twitter.com/benjagross
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/benjaminjgross1
+- name: Amanda Chang
+  title: Web Instructor
+  about_text: 'Amanda is a Brooklyn-based web developer, and an instructor at The
+    Flatiron School. In college, she majored in Theater Studies at Yale University,
+    focusing particularly on how theater-makers can use projections and technology
+    to develop innovative works. Fun facts: she belonged to an a cappella group in
+    college, and has taken a handful of flying trapeze lessons.'
+  about_quote: The Flatiron School isn’t just a place to code; it’s a place where
+    students learn to empower themselves and the people around them.
+  image: images/staff/amanda-chang-round.png
+  github: https://github.com/changamanda
+  twitter: http://twitter.com/changamanda
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/changamanda1
+- name: Sophie DeBenedetto
+  title: Web Instructor
+  about_text: 'Sophie is a web developer and instructor living in Brooklyn. She studied
+    history as an undergrad and spent time teaching and tutoring and working with
+    a Manhattan-based non-profit, The National Mobilization Against Sweatshops (NMASS),
+    before falling in love with coding at the Flatiron School. She currently loves
+    spending time using code to solve problems, reading/watching anything sci-fi and
+    continuing to volunteer at NMASS. '
+  about_quote: When you learn to program, you learn to become both an inventor and
+    an artist.
+  image: images/staff/sophie-debenedetto-round.png
+  github: https://github.com/SophieDeBenedetto
+  twitter: https://twitter.com/sm_debenedetto
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/sophiedebenedetto
+- name: Deniz Unat
+  title: Web Instructor
+  about_text: Deniz is a data analyst turned web developer and an instructor at Flatiron
+    School. She was raised in Germany where she studied information systems management
+    and worked for Deutsche Telekom AG, the nation's largest telecommunications company.
+    Aside from teaching and coding, she enjoys baking, reading and traveling.
+  about_quote: Coding is just another fun way of expressing your creativity.
+  image: images/staff/deniz-unat-round.png
+  github: https://github.com/deniznida
+  twitter: https://twitter.com/nidaunat
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/deniz-nida-unat/a3/227/b51
+- name: Rose Weixel
+  title: Web Instructor
+  about_text: Rose is a web developer and Flatiron School alumna turned faculty member.
+    In her pre-Flatiron life, she studied sociology at Barnard College, taught in
+    public schools as a New York City Teaching Fellow, and worked in the non-profit
+    sector for an adolescent pregnancy prevention program. She loves solving real
+    life problems with code, listening to and playing music, and watching science
+    fiction.
+  about_quote: Start learning to program, and you'll improve your skill set. Keep
+    learning to program, and you'll improve yourself.
+  image: images/staff/rose-weixel-round.png
+  github: https://github.com/roseweixel
+  twitter: https://twitter.com/roseweixel
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/roseweixel/
+- name: Josh Owens
+  title: Web Instructor
+  about_text: Josh is a web developer and teacher for the Web Development Immersive
+    program. He grew up in Richmond, Virginia, and has lived in NYC for the past 4
+    years. Before learning to code, he studied economics and government. He enjoys
+    hacking away on civic innovation and music projects. Outside of code, he's a big
+    fan of the Baltimore Orioles, Kanye West rants, and fellow gingers
+  about_quote: '"[Programming] is the closest thing we have to a superpower." - Drew
+    Houston'
+  image: images/staff/josh-owens-round.png
+  github: https://github.com/joshuabamboo
+  twitter: https://twitter.com/joshuabamboo
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/owensjoshua
+ios:
+- name: Joe Burgess
+  title: Director of Faculty
+  about_text: A graduate of Carnegie Mellon University, Joe started helping others
+    create as a Teacher's Assistant. By senior year, he helped create an iPhone app
+    for the Pittsburgh Post Gazette and went on to work with faculty to develop an
+    iOS class to be taught at CMU. After working at IBM, he returned to what he really
+    loves and started The Flatiron School's iOS course.
+  about_quote: Nothing is more powerful than a class of curious people. I learn something
+    new from my students all of the time.
+  image: images/staff/joe-burgess-round.png
+  github: https://github.com/jmburges
+  twitter: https://twitter.com/jmburges
+  facebook: https://www.facebook.com/joemburgess
+  linkedin: http://www.linkedin.com/in/jmburges
+- name: Tim Clem
+  title: Lead iOS Instructor
+  about_text: Tim has a long history of working for creative studios and startups,
+    but pedagogy has always been a passion. He has been engrossed by the iOS ecosystem
+    since it was called iPhoneOS, and has built apps for National Geographic, several
+    political thinktanks, and many others. Now he's excited to spread knowledge to
+    Flatiron's eager learners.
+  about_quote: Programming is the key to powerful new modes of self-expression.
+  image: images/staff/tim-clem-round.png
+  github: https://github.com/misterfifths
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: 'false'
+- name: something
+  title: ''
+  about_text: ''
+  about_quote: ''
+  image: images/staff/eyes.jpg
+  github: ''
+  twitter: ''
+  facebook: ''
+  linkedin: ''
+front_end:
+- name: Jon Grover
+  title: Front-End Instructor
+  about_text: Jonathan has more than 10 years of experience in graphic design and
+    web development. He has taught at The San Francisco Art Institute (ACE), Pittsburgh
+    Art Institute Online, 3rd Ward, and General Assembly. He has the most popular
+    Technology course on Skillshare with over 6,000 students and 100% positive reviews.
+    His courses have also been featured in Lifehacker.
+  about_quote: It's an exciting time to create websites. The internet is a lot like
+    the wild west. We are its early explorers, staking our claim.
+  image: images/staff/jonathan-grover-round.png
+  github: https://github.com/jongrover
+  twitter: https://twitter.com/jongrover
+  facebook: https://www.facebook.com/SuperAwesomeInstructor
+  linkedin: https://www.linkedin.com/in/jonathanggrover
+- name: Taranjyot Singh Multani
+  title: Front-End Instructor
+  about_text: 'Taranjyot, has a Master’s Degree in Computer Science from Pace University.
+    He is a Senior Developer at Manhattan Programmers specializing in Java, JavaScript,
+    and frameworks: AngularJS, and Ionic. He spent two years teaching courses on programming
+    as a graduate assistant at Pace.'
+  about_quote: The first touch of a user with a Website, the first impression, happens
+    at the Front-End. Front-End skills empower you to get great jobs where you will
+    find joy.
+  image: images/staff/taranjyot-singh-multani-round.png
+  github: https://github.com/TARANJYOTSINGH
+  twitter: https://twitter.com/13taran
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/taranjyot-singh-multani/44/141/154
+data_science:
+- name: Joe Burgess
+  title: Lead Python Instructor
+  about_text: A graduate of Carnegie Mellon University, Joe started helping others
+    create as a Teacher's Assistant. By senior year, he helped create an iPhone app
+    for the Pittsburgh Post Gazette and went on to work with faculty to develop an
+    iOS class to be taught at CMU. After working at IBM, he returned to what he really
+    loves and started at Flatiron School.
+  about_quote: Nothing is more powerful than a class of curious people. I learn something
+    new from my students all of the time.
+  image: images/staff/joe-burgess-round.png
+  github: https://github.com/jmburges
+  twitter: https://twitter.com/jmburges
+  facebook: https://www.facebook.com/joemburgess
+  linkedin: http://www.linkedin.com/in/jmburges
+- name: Sergey Fogelson
+  title: Lead Data Science Instructor
+  about_text: Sergey graduated from Dartmouth with a PhD in Neuroscience in 2013 and
+    immediately left academia to work in the startup space in NYC. He is currently
+    a Data Scientist at Tapad, a digital advertising startup, where he built out the
+    company's graph analytic capabilities. He enjoys dissecting “intractable” problems
+    and learning to use new languages and frameworks. He codes primarily in Python
+    and in Scala. He also enjoys teaching, and is currently a volunteer computer science
+    teacher through the TEALS program.
+  about_quote: A little data wrangling skill will set you free from the limits of
+    the 20th century spreadsheet.
+  image: images/staff/sergey-fogelson-round.jpg
+  github: https://github.com/sergeyfogelso
+  twitter: https://twitter.com/SergeyFogelson
+  facebook: https://www.facebook.com/sergey.fogelson
+  linkedin: https://www.linkedin.com/pub/sergey-fogelson-ph-d/4/a4a/8b3
+diy_electronics:
+- name: Jon Grover
+  title: Electronics Hardware/Web Instructor
+  about_text: Jonathan is a new media artist. He has taught at The San Francisco Art
+    Institute (ACE Program), Pittsburgh Art Institute Online, 3rd Ward, General Assembly,
+    and teaches Programming courses at Flatiron School. He currently has one of the
+    highest rated technology course on Skillshare with over 6,000 students and 100%
+    positive reviews. His courses have also been featured in Lifehacker.
+  about_quote: Bolts of electricity speed through the veins of our devices like shooting
+    stars becoming the lifeblood of our communication systems, transmitting our electronic
+    selves from place to place, and ultimately controlling the mechanics and rhythm
+    of our society. Wielding the soldering iron is to become the shepard of electrons.
+  image: images/staff/jonathan-grover-round.png
+  github: https://github.com/jongrover
+  twitter: https://twitter.com/jongrover
+  facebook: https://www.facebook.com/SuperAwesomeInstructor
+  linkedin: https://www.linkedin.com/in/jonathanggrover

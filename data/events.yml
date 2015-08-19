@@ -1,0 +1,89 @@
+---
+- active: true
+  date: 08.11.15
+  datetime: 11 August, 6pm-8:30pm
+  day: Tuesday
+  title: Flatiron Students Present
+  icon: icon-svg_05
+  icon_color: lblue
+  description: Students from Flatiron School's Web and iOS Development Immersives
+    present applications they've built or a technical topic of their choice—from how
+    to implement Core data to how to build a recipe app.
+  url: http://www.meetup.com/Flatiron-School-Presents/events/tjpdhlytlbpb/
+  img_src: images/img09.jpg
+  icon-color: 
+- date: 08.12.15
+  datetime: 12 August, 7pm-9:30pm
+  day: Wednesday
+  title: ManhattanJS
+  icon: icon-svg_01
+  icon_color: green
+  description: ManhattanJS is a combination of Ruby, Javascript and CSS developers
+    who aim to bring the greatest programming minds to Manhattan once a month to chat,
+    teach, and share their work.
+  url: http://http://manhattanjs.com/
+  img_src: images/img08.jpg
+  icon-color: 
+- date: 08.17.15
+  datetime: 17 August, 6pm-9pm
+  day: Monday
+  title: Ruby Project Night
+  icon: icon-svg_03
+  icon_color: lblue
+  description: Come work on personal projects, release some code, and meet some other
+    folks in the community! If you need help on anything related to Ruby, you should
+    come to this event. If you think you've mastered Ruby, you should also come and
+    help out other people too!
+  url: http://www.meetup.com/Ruby-Project-Night-NYC/events/222354716/
+  img_src: images/img09.jpg
+  icon-color: 
+- date: 08.25.15
+  datetime: 25 August, 6pm-8:30pm
+  day: Tuesday
+  title: Flatiron School Students Present
+  icon: icon-svg_05
+  icon_color: green
+  description: Students from Flatiron School's Web and iOS Development Immersives
+    present applications they've built or a technical topic of their choice—from how
+    to implement Core data to how to build a recipe app.
+  url: http://www.meetup.com/Flatiron-School-Presents/
+  img_src: images/img08.jpg
+  icon-color: 
+- active: false
+  date: 09.09.15
+  datetime: 9 September, 7pm-9:30pm
+  day: Wednesday
+  title: ManhattanJS
+  icon: icon-svg_01
+  icon_color: lblue
+  description: ManhattanJS is a combination of Ruby, Javascript and CSS developers
+    who aim to bring the greatest programming minds to Manhattan once a month to chat,
+    teach, and share their work.
+  url: http://manhattanjs.com/
+  img_src: images/img06.jpg
+  icon-color: 
+- date: 09.10.15
+  datetime: 10 September, 6pm-9pm
+  day: Tuesday
+  title: Out in Tech
+  icon: icon-svg_04
+  icon_color: green
+  description: As New York’s digital scene blossoms with LGBT tech enthusiasts, so
+    too does the need for a community that can connect all areas of the sector – from
+    big companies to small start-ups, from AdTech to FinTech – in a casual and meaningful
+    way.  Out in Tech aims to unite the tech industry one connection at a time.
+  url: http://www.outintech.com/events/
+  img_src: images/img08.jpg
+  icon-color: 
+- date: 08.10.15
+  datetime: 10 August, 6pm-9:30pm
+  day: Monday
+  title: NYC UX Design Meetup
+  icon: icon-svg_04
+  icon_color: lblue
+  description: A group for anyone interested in UX (user experience) design and online
+    product development. Share past experiences and elegant solutions. Discuss new
+    tools and strategies to keep on trend. All skills levels are welcome.
+  url: https://www.eventbrite.com/e/best-practices-for-sketch-app-in-an-agency-environment-workshop-tickets-17865291568
+  img_src: images/img06.jpg
+  icon-color: 

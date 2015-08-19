@@ -1,0 +1,543 @@
+---
+business:
+- name: Mat Balez
+  title: VP, Product
+  image: images/staff/mat-balez.jpg
+  image2x: images/staff/mat-balez@2x.jpg
+  image_description: Mat
+  github: https://github.com/matbalez
+  twitter: http://twitter.com/matbalez
+  facebook: http://www.facebook.com/matbalez
+  linkedin: https://www.linkedin.com/in/matbalez
+- name: Diane Vu
+  title: Community Coordinator
+  image: images/staff/diane-vu.jpg
+  image2x: images/staff/diane-vu@2x.jpg
+  image_description: Diane
+  github: https://github.com/dianeluv
+  twitter: https://twitter.com/dianevug
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/vudiane
+- name: Lesley Bearg
+  title: Director of Finance
+  image: images/staff/lesley-bearg.jpg
+  image2x: images/staff/lesley-bearg@2x.jpg
+  image_description: Lesley
+  github: 'false'
+  twitter: https://twitter.com/lesleybearg
+  facebook: https://www.facebook.com/lesleybearg
+  linkedin: http://www.linkedin.com/pub/lesley-bearg/23/36b/389/
+- name: Dan Chang
+  title: Labs Developer
+  image: images/staff/dan-chang.jpg
+  image2x: images/staff/dan-chang@2x.jpg
+  image_description: Dan
+  github: https://github.com/danielchangnyc
+  twitter: https://twitter.com/danielchangnyc
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/danielchangnyc
+- name: Kevin Character
+  title: Business Development Manager
+  image: images/staff/kevin-character.jpg
+  image2x: images/staff/kevin-character@2x.jpg
+  image_description: Kevin
+  github: 'false'
+  twitter: https://twitter.com/kevincharacter
+  facebook: https://www.facebook.com/kevin.character
+  linkedin: https://www.linkedin.com/in/kevincharacter
+- name: Adam Enbar
+  title: President
+  image: images/staff/adam-enbar.jpg
+  image2x: images/staff/adam-enbar@2x.jpg
+  image_description: Adam
+  github: http://www.github.com/aenbar
+  twitter: https://twitter.com/aenbar
+  facebook: https://www.facebook.com/adamenbar
+  linkedin: http://www.linkedin.com/in/adamenbar
+- name: Mike Linshi
+  title: Recruiting Manager
+  image: images/staff/mike-linshi.jpg
+  image2x: images/staff/mike-linshi@2x.jpg
+  image_description: Mike
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/mikelinshi
+- name: Logan Hasson
+  title: Labs Developer
+  image: images/staff/logan-hasson.jpg
+  image2x: images/staff/logan-hasson@2x.jpg
+  image_description: Logan
+  github: http://www.github.com/loganhasson
+  twitter: https://twitter.com/loganhasson
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/loganhasson
+- name: Cindy Chin
+  title: VP Marketing
+  image: images/staff/cindy-chin.jpg
+  image2x: images/staff/cindy-chin@2x.jpg
+  image_description: Cindy
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/cindyechin
+- name: Yangyang Guo
+  title: Pre-College Business Development Manager
+  image: images/staff/yangyang-guo.jpg
+  image2x: images/staff/yangyang-guo@2x.jpg
+  image_description: Yangyang
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/yangyangguo
+- name: Brian Kil
+  title: Pre-College Business Development Manager
+  image: images/staff/brian-kil.jpg
+  image2x: images/staff/brian-kil@2x.jpg
+  image_description: Brian
+  github: 'false'
+  twitter: https://twitter.com/bkil
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/brian-kil/37/393/680
+- name: Amanda D'Avria
+  title: Admissions Manager
+  image: images/staff/amanda-davria.jpg
+  image2x: images/staff/amanda-davria@2x.jpg
+  image_description: Amanda
+  github: 'false'
+  twitter: http://twitter.com/ADApostrophe
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/amanda-d-avria/7/a01/287
+- name: Amanda Himmelstoss
+  title: Labs Developer
+  image: images/staff/img57.jpg
+  image2x: images/staff/img57@2x.jpg
+  image_description: Amanda
+  github: https://github.com/ahimmelstoss
+  twitter: http://twitter.com/ahimmelstoss
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/amanda-himmelstoss/23/5/101
+- name: John Marc Imbrescia
+  title: Director of Engineering
+  image: images/staff/john-marc-imbrescia.jpg
+  image2x: images/staff/john-marc-imbrescia@2x.jpg
+  image_description: JM
+  github: https://github.com/johnmarc
+  twitter: https://twitter.com/thejohnmarc
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/john-marc-imbrescia/10/a64/405
+- name: Elana Jacobs
+  title: Operations Manager
+  image: images/staff/elana-jacobs.jpg
+  image2x: images/staff/elana-jacobs@2x.jpg
+  image_description: Elana
+  github: 'false'
+  twitter: https://twitter.com/elanabjacobs
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/elana-jacobs/5/938/278
+- name: Jess Parker
+  title: Campus Manager
+  image: images/staff/jess-parker.jpg
+  image2x: images/staff/jess-parker@2x.jpg
+  image_description: Jess
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/jessica-parker/44/841/333
+- name: Adam Jonas
+  title: Managing Director of Labs
+  image: images/staff/adam-jonas.jpg
+  image2x: images/staff/adam-jonas@2x.jpg
+  image_description: AJ
+  github: https://github.com/adamjonas
+  twitter: https://twitter.com/adamcjonas
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/ajonas
+- name: Edvin Lee
+  title: Creative Director
+  image: images/staff/edvin-lee.jpg
+  image2x: images/staff/edvin-lee@2x.jpg
+  image_description: Edvin
+  github: 'false'
+  twitter: https://twitter.com/thisisedvin
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/thisisedvin
+- name: Joseph Lehr
+  title: Business Development Manager
+  image: images/staff/joe-lehr.jpg
+  image2x: images/staff/joe-lehr@2x.jpg
+  image_description: Joe
+  github: 'false'
+  twitter: https://twitter.com/HustleYussel
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/joe-lehr/41/2a2/97a
+- name: Josh Rowley
+  title: Labs Developer
+  image: images/staff/josh-rowley.jpg
+  image2x: images/staff/josh-rowley@2x.jpg
+  image_description: Josh
+  github: https://github.com/joshrowley/
+  twitter: https://twitter.com/joshrowley
+  facebook: https://www.facebook.com/joshuarowley
+  linkedin: https://www.linkedin.com/in/rowleyjoshua
+- name: Carley McGee
+  title: Operations Associate
+  image: images/staff/carley-mcgee.jpg
+  image2x: images/staff/carley-mcgee@2x.jpg
+  image_description: Carley
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/carley-mcgee/83/9b/9b
+- name: Jackie Morgan
+  title: Manager of Student Development and Coaching
+  image: images/staff/jackie-morgan.jpg
+  image2x: images/staff/jackie-morgan@2x.jpg
+  image_description: Jackie
+  github: 'false'
+  twitter: https://twitter.com/JackleenMorgan
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/jackleenmorgan
+- name: Seiji Naganuma
+  title: Apprentice Developer
+  image: images/staff/seiji-naganuma.jpg
+  image2x: images/staff/seiji-naganuma@2x.jpg
+  image_description: Jackie
+  github: https://github.com/snags88
+  twitter: https://twitter.com/s2k10
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/snaganuma
+- name: Chris Aporta
+  title: Front-End Developer
+  image: images/staff/christopher-aporta.jpg
+  image2x: images/staff/christopher-aporta@2x.jpg
+  image_description: Chris
+  github: https://github.com/caporta
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/caporta
+- name: Inga Nikitina
+  title: Web Developer Intern
+  image: images/staff/inga-nikitina.jpg
+  image2x: images/staff/inga-nikitina@2x.jpg
+  image_description: Inga
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/inganikitina
+- name: Hope Reagan
+  title: Designer
+  image: images/staff/hope-reagan.jpg
+  image2x: images/staff/hope-reagan@2x.jpg
+  image_description: Hope
+  github: 'false'
+  twitter: https://twitter.com/hopereagan
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/hopereagan
+- name: Lyel Resner
+  title: K12 + Social Impact
+  image: images/staff/lyel-resner.jpg
+  image2x: images/staff/lyel-resner@2x.jpg
+  image_description: Lyel
+  github: 'false'
+  twitter: https://twitter.com/lyelr
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/lyel-resner/5/5a0/427
+- name: Kristi Riordan
+  title: COO
+  image: images/staff/kristi-riordan.jpg
+  image2x: images/staff/kristi-riordan@2x.jpg
+  image_description: Kristi
+  github: 'false'
+  twitter: https://twitter.com/kristiriordan
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/profile/view?id=2214794
+- name: Kate Travers
+  title: Apprentice Developer
+  image: images/staff/kate-travers.jpg
+  image2x: images/staff/kate-travers@2x.jpg
+  image_description: Kate
+  github: https://github.com/ktravers
+  twitter: https://twitter.com/kttravers
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/katettravers/
+- name: Spencer Rogers
+  title: Labs Developer
+  image: images/staff/spencer-rogers.png
+  image2x: images/staff/spencer-rogers@2x.png
+  image_description: Spencer
+  github: https://github.com/spencer1248
+  twitter: https://twitter.com/spencer-rogers
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/spencer1248
+- name: Rebekah Rombom
+  title: VP, Business Development
+  image: images/staff/rebekah-rombom.jpg
+  image2x: images/staff/rebekah-rombom@2x.jpg
+  image_description: Rebekah
+  github: https://github.com/rrombom
+  twitter: https://twitter.com/rrombom
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/rrombom
+- name: Jessica Rudder
+  title: Labs Developer
+  image: images/staff/jess-rudder.jpg
+  image2x: images/staff/jess-rudder@2x.jpg
+  image_description: Jess
+  github: https://github.com/jessrudder
+  twitter: https://twitter.com/jessrudder
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/jessrudder
+- name: Eric Rafaloff
+  title: Labs Developer
+  image: images/staff/eric-rafaloff.jpg
+  image2x: images/staff/eric-rafaloff@2x.jpg
+  image_description: Eric
+  github: https://github.com/EricR
+  twitter: https://twitter.com/eric_rafaloff
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/ericrafaloff
+- name: Anna Kondracka
+  title: Staff Accountant
+  image: images/staff/anna-kondracka.jpg
+  image2x: images/staff/anna-kondracka@2x.jpg
+  image_description: Anna
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/anna-kondracka/46/94b/296
+- name: Cricky Cicchetti
+  title: Pre-College Partnerships Manager
+  image: images/staff/cricky-cicchetti.jpg
+  image2x: images/staff/cricky-cicchetti@2x.jpg
+  image_description: Cricky
+  github: 'false'
+  twitter: https://twitter.com/crickycicchetti
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/crickycicchetti
+- name: Amelia Tidona
+  title: Pre-College Market Manager
+  image: images/staff/amelia-tidona.jpg
+  image2x: images/staff/amelia-tidona@2x.jpg
+  image_description: Amelia
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/amelia-tidona/32/4b/387
+- name: Kaitlin Vignali
+  title: Product Quality Lead
+  image: images/staff/kaitlin-vignali.jpg
+  image2x: images/staff/kaitlin-vignali@2x.jpg
+  image_description: Kaitlin
+  github: https://github.com/kvignali
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/kaitlinvignali
+- name: Kristin Hoppe
+  title: Copywriter
+  image: images/staff/kristin-hoppe.jpg
+  image2x: images/staff/kristin-hoppe@2x.jpg
+  image_description: Kristin
+  github: 'false'
+  twitter: https://twitter.com/KristinHoppe
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/kristin-hoppe/b2/52/354
+- name: Jon Moss
+  title: Labs Intern
+  image: images/staff/jonathan-moss.jpg
+  image2x: images/staff/jonathan-moss@2x.jpg
+  image_description: Jon
+  github: https://github.com/maclover7
+  twitter: https://twitter.com/applerebel
+  facebook: 'false'
+  linkedin: 'false'
+faculty:
+- name: Avi Flombaum
+  title: Dean
+  image: images/staff/avi-flombaum-round.png
+  image2x: images/staff/avi-flombaum-round@2x.png
+  image_description: Beloved Dean
+  github: https://github.com/aviflombaum
+  twitter: http://twitter.com/aviflombaum
+  facebook: http://www.facebook.com/aviflombaum
+  linkedin: http://www.linkedin.com/in/aviflombaum
+- name: Joe Burgess
+  title: Director of Faculty
+  image: images/staff/joe-burgess-round.png
+  image2x: images/staff/joe-burgess-round@2x.png
+  image_description: Lead iOS Instructor
+  github: https://github.com/jmburges
+  twitter: https://twitter.com/jmburges
+  facebook: https://www.facebook.com/joemburgess
+  linkedin: http://www.linkedin.com/in/jmburges
+- name: Amanda Chang
+  title: Web Instructor
+  image: images/staff/amanda-chang.jpg
+  image2x: images/staff/amanda-chang@2x.jpg
+  image_description: Amanda
+  github: https://github.com/changamanda
+  twitter: http://twitter.com/changamanda
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/changamanda1
+- name: Stephanie Coleman
+  title: Fellowship Instructor
+  image: images/staff/stephanie-coleman.jpg
+  image2x: images/staff/stephanie-coleman@2x.jpg
+  image_description: Stephanie
+  github: https://github.com/stephaniecoleman
+  twitter: https://twitter.com/stephiecoleman
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/stephanie-coleman/79/3ab/227/
+- name: Ian Candy
+  title: Pre-College Instructor
+  image: images/staff/ian-candy.jpg
+  image2x: images/staff/ian-candy@2x.jpg
+  image_description: Ian
+  github: https://github.com/ipc103
+  twitter: https://twitter.com/iancandystwitr
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/iancandy
+- name: Jeff Katz
+  title: Senior Web Instructor
+  image: images/staff/jeff-katz.jpg
+  image2x: images/staff/jeff-katz@2x.jpg
+  image_description: Jeff
+  github: https://github.com/JeffKatzy
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/jeff-katz/5/7a6/541
+- name: Josh Owens
+  title: Web Instructor
+  image: images/staff/josh-owens.jpg
+  image2x: images/staff/josh-owens@2x.jpg
+  image_description: Josh
+  github: https://github.com/joshuabamboo
+  twitter: http://twitter.com/joshuabamboo
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/owensjoshua
+- name: Danny Sullivan
+  title: Web Instructor
+  image: images/staff/danny-sullivan.jpg
+  image2x: images/staff/danny-sullivan@2x.jpg
+  image_description: Danny
+  github: https://github.com/danny-sullivan
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: 'false'
+- name: Rose Weixel
+  title: Web Instructor
+  image: images/staff/rose-weixel-round.png
+  image2x: images/staff/rose-weixel-round@2x.png
+  image_description: Rose
+  github: https://github.com/roseweixel
+  twitter: https://twitter.com/roseweixel
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/in/roseweixel/
+- name: Daniel Fenjves
+  title: Pre-College Instructor
+  image: images/staff/daniel-fenjves.png
+  image2x: images/staff/daniel-fenjves@2x.png
+  image_description: Danny
+  github: https://github.com/dfenjves
+  twitter: https://twitter.com/dfenjves
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/daniel-fenjves/7/a67/b14
+- name: Victoria Friedman
+  title: Pre-College Instructor
+  image: images/staff/victoria-friedman.jpg
+  image2x: images/staff/victoria-friedman@2x.jpg
+  image_description: Vic
+  github: https://github.com/vicfriedman
+  twitter: http://twitter.com/vicfriedman
+  facebook: 'false'
+  linkedin: http://www.linkedin.com/pub/victoria-friedman/55/338/b7/
+- name: Tim Clem
+  title: Lead iOS Instructor
+  image: images/staff/tim-clem.jpg
+  image2x: images/staff/tim-clem@2x.jpg
+  image_description: Tim
+  github: https://github.com/misterfifths
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: 'false'
+- name: Jim Campagno
+  title: iOS Instructor
+  image: images/staff/jim-campagno.jpg
+  image2x: images/staff/jim-campagno@2x.jpg
+  image_description: Jim
+  github: https://github.com/JimCampagno
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/jimcampagno
+- name: Tom O'Malley
+  title: iOS Instructor
+  image: images/staff/tom-omalley.jpg
+  image2x: images/staff/tom-omalley@2x.jpg
+  image_description: Tom
+  github: https://github.com/tomalley104
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: 'false'
+- name: Mark Murray
+  title: iOS Curriculum Developer
+  image: images/staff/mark-murray.jpg
+  image2x: images/staff/mark-murray@2x.jpg
+  image_description: Mark
+  github: https://github.com/markedwardmurray
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/markedwardmurray
+- name: Deniz Unat
+  title: Web Instructor
+  image: images/staff/deniz-unat.jpg
+  image2x: images/staff/deniz-unat@2x.jpg
+  image_description: Deniz
+  github: https://github.com/deniznida
+  twitter: https://twitter.com/nidaunat
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/pub/deniz-nida-unat/a3/227/b51
+- name: Jon Grover
+  title: Lead Front-end Instructor
+  image: images/staff/jonathan-grover-round.png
+  image2x: images/staff/jonathan-grover-round@2x.png
+  image_description: Jon
+  github: https://github.com/jongrover
+  twitter: https://twitter.com/jongrover
+  facebook: https://www.facebook.com/SuperAwesomeInstructor
+  linkedin: https://www.linkedin.com/in/jonathanggrover
+- name: Blake Johnson
+  title: Lead Fellowship Instructor
+  image: images/staff/blake-johnson.jpg
+  image2x: images/staff/blake-johnson@2x.jpg
+  image_description: Blake
+  github: https://github.com/blake41
+  twitter: https://twitter.com/blake41
+  facebook: https://www.facebook.com/blake41
+  linkedin: https://www.linkedin.com/pub/blake-johnson/4/42a/878
+- name: Ben Gross
+  title: Web Instructor
+  image: images/staff/ben-gross.jpg
+  image2x: images/staff/ben-gross@2x.jpg
+  image_description: Ben
+  github: https://github.com/BenjaGross
+  twitter: https://twitter.com/benjagross
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/benjaminjgross1
+- name: Steven Nunez
+  title: Lead Web Instructor
+  image: images/staff/steven-nunez.jpg
+  image2x: images/staff/steven-nunez@2x.jpg
+  image_description: Steven
+  github: https://github.com/StevenNunez
+  twitter: https://twitter.com/_stevennunez
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/profile/view?id=22812304
+- name: Sophie DeBenedetto
+  title: Web Instructor
+  image: images/staff/sophie-debenedetto.jpg
+  image2x: images/staff/sophie-debenedetto@2x.jpg
+  image_description: sophie
+  github: https://github.com/SophieDeBenedetto
+  twitter: https://twitter.com/sm_debenedetto
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/sophiedebenedetto
