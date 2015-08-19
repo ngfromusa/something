@@ -297,6 +297,33 @@ business:
   twitter: https://twitter.com/eric_rafaloff
   facebook: 'false'
   linkedin: https://www.linkedin.com/in/ericrafaloff
+- name: Ann John
+  title: Curriculum Manager
+  image: images/staff/ann-john.jpg
+  image2x: images/staff/ann-john@2x.jpg
+  image_description: Ann
+  github: 'false'
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/anndjohn
+- name: Sophie DeBenedetto
+  title: Web Curriculum Developer
+  image: images/staff/sophie-debenedetto.jpg
+  image2x: images/staff/sophie-debenedetto@2x.jpg
+  image_description: sophie
+  github: https://github.com/SophieDeBenedetto
+  twitter: https://twitter.com/sm_debenedetto
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/sophiedebenedetto
+- name: Mark Murray
+  title: iOS Curriculum Developer
+  image: images/staff/mark-murray.jpg
+  image2x: images/staff/mark-murray@2x.jpg
+  image_description: Mark
+  github: https://github.com/markedwardmurray
+  twitter: 'false'
+  facebook: 'false'
+  linkedin: https://www.linkedin.com/in/markedwardmurray
 - name: Anna Kondracka
   title: Staff Accountant
   image: images/staff/anna-kondracka.jpg
@@ -379,6 +406,15 @@ faculty:
   twitter: http://twitter.com/changamanda
   facebook: 'false'
   linkedin: https://www.linkedin.com/in/changamanda1
+- name: Uzo Ukeagu
+  title: Fellowship Instructor
+  image: images/staff/img60.jpg
+  image2x: images/staff/img60@2x.jpg
+  image_description: Uzo
+  github: https://www.github.com/msuzoagu
+  twitter: https://www.twitter.com/msuzoagu
+  facebook: 'false'
+  linkedin: 'false'
 - name: Stephanie Coleman
   title: Fellowship Instructor
   image: images/staff/stephanie-coleman.jpg
@@ -478,15 +514,6 @@ faculty:
   twitter: 'false'
   facebook: 'false'
   linkedin: 'false'
-- name: Mark Murray
-  title: iOS Curriculum Developer
-  image: images/staff/mark-murray.jpg
-  image2x: images/staff/mark-murray@2x.jpg
-  image_description: Mark
-  github: https://github.com/markedwardmurray
-  twitter: 'false'
-  facebook: 'false'
-  linkedin: https://www.linkedin.com/in/markedwardmurray
 - name: Deniz Unat
   title: Web Instructor
   image: images/staff/deniz-unat.jpg
@@ -532,12 +559,12 @@ faculty:
   twitter: https://twitter.com/_stevennunez
   facebook: 'false'
   linkedin: https://www.linkedin.com/profile/view?id=22812304
-- name: Sophie DeBenedetto
-  title: Web Instructor
-  image: images/staff/sophie-debenedetto.jpg
-  image2x: images/staff/sophie-debenedetto@2x.jpg
-  image_description: sophie
-  github: https://github.com/SophieDeBenedetto
-  twitter: https://twitter.com/sm_debenedetto
+- name: New Faculty
+  title: yet another web instructor
+  image: images/staff/eyes.jpg
+  image2x: images/staff/academy-logo.png
+  image_description: faculty
+  github: 'false'
+  twitter: 'false'
   facebook: 'false'
-  linkedin: https://www.linkedin.com/in/sophiedebenedetto
+  linkedin: 'false'
